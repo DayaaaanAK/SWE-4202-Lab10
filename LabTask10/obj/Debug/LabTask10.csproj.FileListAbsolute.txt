@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\LabTask10\bin\Debug\LabTask10.exe.config
+C:\Users\Asus\source\repos\LabTask10\bin\Debug\LabTask10.exe
+C:\Users\Asus\source\repos\LabTask10\bin\Debug\LabTask10.pdb
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.Form1.resources
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.Properties.Resources.resources
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.exe
+C:\Users\Asus\source\repos\LabTask10\obj\Debug\LabTask10.pdb
